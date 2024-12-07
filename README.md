@@ -83,7 +83,6 @@ The architecture for this project is depicted below:
 
 The final dashboard provides interactive visualizations of the dataset, enabling data-driven decision-making. Below is a sample screenshot of the dashboard:
 
-*(Insert image if available)*
 
 ---
 
