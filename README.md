@@ -26,7 +26,6 @@ The pipeline comprises:
 
 The architecture for this project is depicted below:
 
-![Project Architecture Overview]
 
 ---
 
