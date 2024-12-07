@@ -26,13 +26,13 @@ The pipeline comprises:
 
 The architecture for this project is depicted below:
 
-![Project Architecture Overview](image.png)
+![Project Architecture Overview]
 
 ---
 
 ## Dataset
 
-- **Source**: [Kaggle](#) (provide link)
+- **Source**: [Kaggle]
 - The dataset contains Olympic-related data, uploaded and processed through Azure components.
 
 ---
